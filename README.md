@@ -3,9 +3,9 @@
 My personal website: https://asherz720.github.io/
 <!--
 **asherz720/asherz720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-## I'm a linguist working on semantics, syntax, pragmatics and computational linguistics.
+## I'm a computational linguist working on discourse, planning and theoretical semantics/pragmatics.
 
-- 🔭 I’m currently working on CP selection and the syntax-semantic interface behind it + computational QUDs
+- 🔭 I’m currently working on planning agents
 - 🌱 I’m currently learning French and Japanese
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I cannot swim.
